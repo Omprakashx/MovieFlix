@@ -12,7 +12,7 @@
 1. [Introduction](#MovieFlix)
 2. [Features](#features)
 3. [Tech Used](#technologies-used)
-4. [Getting Started](#getting-started)
+4. [Screenshots](#Screenshots)
 5. [Installation](#installation)
 6. [Usage](#usage)
 7. [API Endpoints](#api-endpoints)

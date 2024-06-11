@@ -35,7 +35,7 @@ Insert gif or link to demo
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Omprakashx/MovieFlix/blob/main/screenshot/Screenshot%202024-06-10%20231615.png?raw=true)
 
 
 ## Tech Stack

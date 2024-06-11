@@ -11,7 +11,7 @@
 
 1. [Introduction](#MovieFlix)
 2. [Features](#features)
-3. [Tech Used](#technologies-used)
+3. [Tech Stack](#Tech Stack)
 4. [Screenshots](#Screenshots)
 5. [Installation](#installation)
 6. [Usage](#usage)

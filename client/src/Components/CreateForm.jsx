@@ -25,7 +25,7 @@ function CreateForm() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('http://localhost:8080/listings/new', formData);
+      const response = await axios.post('https://movieflix-gmqp.onrender.com/listings/new', formData);
       if (response.status === 201) {
         toast.success('Listing created successfully');
         navigate("/");

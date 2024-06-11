@@ -35,8 +35,12 @@ Insert gif or link to demo
 
 ## Screenshots
 
+### Read/DELETE
 ![App Screenshot](https://github.com/Omprakashx/MovieFlix/blob/main/screenshot/Screenshot%202024-06-10%20231615.png?raw=true)
-
+### CREATE
+![App Screenshot](https://github.com/Omprakashx/MovieFlix/blob/main/screenshot/Screenshot%202024-06-10%20231643.png?raw=true)
+### UPDATE
+![App Screenshot](https://github.com/Omprakashx/MovieFlix/blob/main/screenshot/Screenshot%202024-06-10%20231701.png?raw=true)
 
 ## Tech Stack
 - **Backend:**   Node.js, Express

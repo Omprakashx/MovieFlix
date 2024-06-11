@@ -11,7 +11,7 @@
 
 1. [Introduction](#MovieFlix)
 2. [Features](#features)
-3. [Tech Stack](#Tech Stack)
+3. [TechStack](#TechStack)
 4. [Screenshots](#Screenshots)
 5. [Installation](#installation)
 6. [Usage](#usage)
@@ -42,7 +42,7 @@ Insert gif or link to demo
 ### UPDATE
 ![App Screenshot](https://github.com/Omprakashx/MovieFlix/blob/main/screenshot/Screenshot%202024-06-10%20231701.png?raw=true)
 
-## Tech Stack
+## TechStack
 - **Backend:**   Node.js, Express
 - **Frontend:**  React
 - **Database:**  MongoDB
